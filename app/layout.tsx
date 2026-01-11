@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: 'Portfolio | Full Stack Developer',
   description: '사용자 경험을 최우선으로 생각하는 풀스택 개발자의 포트폴리오입니다.',
   keywords: ['portfolio', 'developer', 'web development', 'full stack'],
-  authors: [{ name: '전동훈' }],
+  authors: [{ name: '코난' }],
   openGraph: {
     type: 'website',
     locale: 'ko_KR',

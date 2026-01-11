@@ -2,7 +2,7 @@ import { Project, Experience, Skill, SocialLink } from '@/types'
 
 // 개인 정보
 export const personalInfo = {
-  name: '전동훈',
+  name: '코난',
   title: 'Full Stack Developer',
   bio: '사용자 경험을 최우선으로 생각하는 개발자입니다. 모던 웹 기술을 활용하여 의미 있는 제품을 만들고 있습니다.',
   email: 'contact@example.com',
